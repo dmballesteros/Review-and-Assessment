@@ -21,7 +21,7 @@ The uploaded files may include but are not limited to:
 - If any discrepancies or security concerns are found, report them immediately to the appropriate stakeholders.
 
 ## Contact
-For any inquiries regarding the shared documents, please reach out to the responsible audit or cybersecurity team.
+For any inquiries regarding the shared documents, please reach out to the responsible audit or cybersecurity team / @dmballesteros.
 
 ---
 **Confidential & Restricted - Handle with Care**
